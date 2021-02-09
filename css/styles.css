@@ -489,8 +489,8 @@
             grid-template-columns: repeat(2, 1fr);
         }
         .imagen-perfil {
-            max-width: 70%;
-            margin: 0 150px
+            max-width: 40%;
+            margin: 0 345px
         }
         .box-1 {
             height: 2000px;
