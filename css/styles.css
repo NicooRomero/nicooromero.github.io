@@ -462,7 +462,6 @@
         .main-content {
             display: flex;
             flex-direction: row-reverse;
-            margin-top: 150px;
             align-items: center;
         }
         .main-content img {
